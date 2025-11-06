@@ -1,0 +1,4 @@
+python 3.11.3
+CentOS Stream 9
+Kernel: Linux 5.14.0-615.el9.x86_64
+postgresql 17
